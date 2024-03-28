@@ -1,3 +1,17 @@
 h2 {
     text-align: center;
 }
+div.headers {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 1%;
+  display: block;
+  background-color:darkgray;
+  width: 110;
+  
+  padding: 10px;
+  color: #000000;
+}
+div.headers a {
+    color: #000000;
+}
